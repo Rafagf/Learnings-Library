@@ -1,6 +1,6 @@
 # The Art of Negotiation by Chris Voss - Notes
 
-My -very personal- notes from Chriss Voss's awesome course.
+My -very personal- notes from Chris Voss's awesome [course](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation/).
 
 **Table of Contents**
 - [Mirroring](#mirroring)
@@ -27,7 +27,7 @@ Verbal observations of feelings to remove negative emotions or reinforce positiv
 ## Mastering Delivery
 The way we deliver our words makes a big difference. *DJ Voice* to calm down people. *Assertive voice* should be the default one to keep a happy/collaborative tone. *Analysis voice* it's crucial to use but _only_ when you're not willing to change your mind.
 
-<a name="body-language-speach-patterns-delivery"></a>
+<a name="body-language-speach-patterns"></a>
 ## Body Language & Speech patterns
 When trying to get across a message or communicating in general, there's the 7/38/55 rule: 7% content, 38% tone and 55% body language. Mind-blowing that content has so little weight.
 

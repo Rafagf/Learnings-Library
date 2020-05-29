@@ -1,5 +1,4 @@
 # Clean-Architecture-Book-Overview
-Overview of Uncle's Bob book on Architecture.
 
 **Table of Contents**
 - [Chapter 1. What is Design and Architecture](#design-and-architecture)

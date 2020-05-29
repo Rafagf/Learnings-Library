@@ -7,5 +7,5 @@
 
 
 **Courses**
-- [The art of negotiation by Chris Voss](https://github.com/Rafagf/Learnings-Library/blob/master/courses/The-Art-Of-Negotiation-Chris-Voss.md)
+- [The Art of Negotiation by Chris Voss](https://github.com/Rafagf/Learnings-Library/blob/master/courses/The-Art-Of-Negotiation-Chris-Voss.md)
 

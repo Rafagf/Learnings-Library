@@ -1,8 +1,5 @@
 # Clean Code Uncle Bob - Overview
 
-I'm a person who loves reading programming books but hates the fact that I usually forget important details about it. Sometimes I read something cool and I think "aha! Makes sense!" but if I don't use it in my daily basis I'll probably forget  it. That's why I enjoy writing down book overviews, so I can later goo and have a look to remember the key learnings I took from the book.
-
-
 **Table of Contents**
 - [Chapter 2. Naming](#naming)
 - [Chapter 3. Functions](#functions)
